@@ -120,7 +120,7 @@ static id sharedInstance = nil;
     GADRequest *request = [GADRequest request];
     if (GAD_TEST_MODE) {
         [[GADMobileAds sharedInstance] requestConfiguration].testDeviceIdentifiers = @[kGADSimulatorID,
-                                                                                       @"Test device ID"];
+                                                                                       @"Test Device ID"];
     }
     
     if (!self.usePersonalizedAds) {
