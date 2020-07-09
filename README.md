@@ -1,6 +1,6 @@
 # AdMobバナーを表示する「DCAdMobBanner」クラス（改訂版）
 
-iPhoneアプリに[AdMob](https://admob.google.com/intl/ja/home/ "AdMob")のモバイルバナーを表示する「[DCAdMobBanner](https://github.com/masakihirokawa/objc-classes-dc-admob-banner-2020 "DCAdMobBanner")」クラスを改訂しました。
+iPhoneアプリに[AdMob](https://admob.google.com/intl/ja/home/ "AdMob")のモバイルバナーを表示する「DCAdMobBanner」クラスを改訂しました。
 
 [公式リファレンス](https://developers.google.com/admob/ios/banner?hl=ja "公式リファレンス")を参考にさせていただきました。ご使用の際はアプリIDと広告枠IDを指定してください。
 
